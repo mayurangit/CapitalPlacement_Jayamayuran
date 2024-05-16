@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CapitalPlacement_Jayamayuran.props" />
+</Project>

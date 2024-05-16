@@ -1,0 +1,6 @@
+@CapitalPlacement_Jayamayuran_HostAddress = http://localhost:5035
+
+GET {{CapitalPlacement_Jayamayuran_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
